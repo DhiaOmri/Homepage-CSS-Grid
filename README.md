@@ -17,7 +17,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Screenshot
 
-![](./screenshot/screenshot-desktop.png)
+![](./assets/image-web-3-desktop.jpg)
 
 ### Links
 
